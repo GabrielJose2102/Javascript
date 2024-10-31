@@ -1,0 +1,4 @@
+- Crear interfaz para introducir notas.
+- Validar que no haya errores.
+- Se debe promediar la nota, con otras 2 notas de trabajos anteriores.
+- Si el promedio es mayor a 7/10 aprobó la materia.

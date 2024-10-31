@@ -1,0 +1,89 @@
+body {
+  background-color: rgba(51, 46, 46, 0.9);
+}
+
+/* Form */
+
+.form-content {
+  display: flex;
+  flex-direction: column;
+  width: 60%;
+  height: 400px;
+  margin: auto;
+  margin-top: 100px;
+  margin-bottom: 20px;
+  background-color: #383741;
+}
+
+.title {
+  color: #bbb;
+  text-align: center;
+  margin-top: 30px;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  width: 60%;
+  margin: auto;
+  margin-top: 1%;
+  padding: 30px;
+  background-color: rgba(51, 46, 46, 0.7);
+  border: 1px solid #000;
+}
+
+.form-input {
+  width: 70%;
+  height: 30px;
+  margin: auto;
+  justify-content: center;
+}
+
+.form-button {
+  width: 70%;
+  height: 40px;
+  margin: auto;
+  justify-content: center;
+}
+
+/* Table */
+
+.grid-table {
+  width: 80%;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr); /* 4 columnas de igual tamaño */
+  gap: 5px;
+  padding: 5px;
+  margin: auto;
+  border: 1px solid #000;
+}
+
+.header {
+  font-weight: bold;
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+}
+
+.cell {
+  background-color: #f9f9f9;
+  padding: 10px;
+  text-align: center;
+  border: 1px solid #ddd;
+}
+
+
+.btn-content {
+  display: flex;
+  width: 100%;
+  padding-top: 2%;
+  margin: auto;
+}
+
+.btn-send {
+  width: 25%;
+  height: 30px;
+  margin: auto;
+}

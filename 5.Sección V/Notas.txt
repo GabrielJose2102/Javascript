@@ -1,0 +1,19 @@
+Termino el semestre y se necesita saber si los estudiantes aprueban las materias, las condiciones para hacerlo son:
+
+- Contar con el 90% de asistencias.
+- La nota debe de ser minimo de 7/10.
+- Debe de haber entregado el 75% de los trabajos practicos.
+
+Solicitar dichos requisitos al usuario para comprobar si aprueba.
+Mostrar todos resultados con colores representativos.
+Todo esto estructurado con tablas.
+
+
+
+Organizador de tareas, se cuenta con 2 semanas para realizar lo siguiente: (24h estudiar, 24h trabajos practicos, 56h trabajar, 8h hacer cosas de la casa).
+
+condiciones para las tareas:
+
+- Organizar las tareas diariamente.
+- utilizar la consola.
+- el tiempo por tarea no debe superar 4h.

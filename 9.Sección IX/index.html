@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JS Sección IX</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="form-container">
+        <h2>Registro de Notas del Alumno</h2>
+        <form action="#" method="POST" class="form">
+            <!-- Información del alumno -->
+            <div class="input-group">
+                <label for="nombre">Nombre del Alumno:</label>
+                <input class="fields" type="text" id="nombre" name="nombre" required>
+            </div>
+            <div class="input-group">
+                <label for="apellido">Apellido del Alumno:</label>
+                <input class="fields" type="text" id="apellido" name="apellido" required>
+            </div>
+
+            <!-- Materias y notas -->
+            <h3>Materias</h3>
+            <div class="input-group">
+                <label for="materia1">Nombre de la Materia 1:</label>
+                <input class="fields" type="text" id="materia1" name="materia1" required>
+                <label for="nota1">Nota:</label>
+                <input class="fields" type="number" id="nota1" name="nota1" min="0" max="100" required>
+            </div>
+
+            <div class="input-group">
+                <label for="materia2">Nombre de la Materia 2:</label>
+                <input class="fields"  type="text" id="materia2" name="materia2" required>
+                <label for="nota2">Nota:</label>
+                <input class="fields" type="number" id="nota2" name="nota2" min="0" max="100" required>
+            </div>
+
+            <div class="input-group">
+                <label for="materia3">Nombre de la Materia 3:</label>
+                <input class="fields" type="text" id="materia3" name="materia3" required>
+                <label for="nota3">Nota:</label>
+                <input class="fields" type="number" id="nota3" name="nota3" min="0" max="100" required>
+            </div>
+
+            <!-- Nombre del profesor -->
+            <div class="input-group">
+                <label for="profesor">Nombre del Profesor:</label>
+                <input class="fields" type="text" id="profesor" name="profesor" required>
+            </div>
+
+        </form>
+
+        <!-- Botón de envío -->
+        <div class="input-group">
+            <button type="submit" class="submit">Registrar Notas</button>
+        </div>
+    </div>
+
+    <script src="code.js"></script>
+</body>
+</html>

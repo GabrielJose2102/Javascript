@@ -1,0 +1,20 @@
+Tomar la calculadora que se desarrollo y agregrle nuevas funciones, (convertirla en calculadora cientifica).
+
+- Usando el Objeto "Math" Agregar nuevas funciones de operaciones complejas para la calculadora.
+
+
+Registro de plan Educativo se necesita saber cuantas clases hay, los profesores que estan asigndos para cada clase, los alumnos inscritos, nombre de las clases.
+
+- Crear función que devuelva (profesor asignado, nombre de alumnos por materia).
+- Función que nos muestre en cuantas materias esta una persona especifica.
+- Nombre de las clases y sus profesores.
+
+
+
+El sistema de inscrición sufrio un contra tiempo, crear uno nuevo que sustituya al anterior.
+
+- Crear función que permita a los alumnos inscribir las materias que imparte la universidad.
+- Mostrar informacion de las materias (profesor, horario, unidades de credito, matricula, semestre).
+- Crear función que pregunte cual es la materia que se desea inscribir.
+- Condiciones para inscribirse (Que no este llena la matricula < 20).
+- Si es menor a 20 se inscribira al alumno si no lo es no podra.

@@ -1,0 +1,13 @@
+Gabriel compro varios boletos de loterias, afortunadamente uno de ellos salio ganador con lo que obtuvo una cantidad considerable y se plantea hacer una fiesta.
+
+En su fiesta solo quiere que se cumplan 2 condiciones:
+
+- Para poder pasar debes de ser mayor de edad.
+- Si eres la primera persona en llegar despues de las 2AM y eres mayor de edad pasas gratis.
+
+
+En una universisdad necesitan llevar el registro de asistencias ya que el sistema que ello usaba sufrio una averia.
+
+- Se debe de llevar el registro por lo menos por 30 dias.
+- Se necesita saber en el transcurso de los dias por cada alumno si esta presente o ausente.
+- Si cualquiera de los estudiantes presenta un 10% de inasistencias reprobara la materia.

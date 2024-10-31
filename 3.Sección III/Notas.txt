@@ -1,0 +1,22 @@
+El usuario va a una tienda de celulares, porque quiere adquirir uno nuevo, para ellos quiere saber las caracteristicas de cada uno y de esta manera poder seleccionar el que más le convenga.
+
+- Mostrar las particularidades de cada celular.
+- Caracteristicas: (color, peso, resolucion de pantalla, camara y memoria ram).
+- Debe poder encender, reiniciar, apagar, tomar fotos y grabar.
+
+
+En la tienda tambien hay celulare de alta gamma que tambien el usuario quiere revisar.
+Anexar las nuevas funcionabilidades a los telefonos de alta gamma.
+
+- Mostrar aparte estos telefonos que tienen las mismas funcionabilidades mas otras mejores.
+- Graban en camara lenta.
+- Posee reconocimiento facial.
+- Tiene una camara extra.
+
+
+Una vez comprado el celular, lo quiere para jugar en el pero no sabe que juegos es el mejor para el solo quiere descargar 2 juegos para que no se llene el espacio del celular y quiere que se le ayude a decidir.
+
+- Se cuenta con los siguientes datos de las app (nombre, cantidad de descargas, puntuación de la app y el peso de la misma).
+- Se le pedira las caracteristicas que busca de una app o juego para que sea de su gusto basandonos en los datos que poseemos.
+- Segun sus gustos se les mostrara las app que cumplan con los requisitos seleccionados.
+

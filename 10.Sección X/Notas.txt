@@ -1,0 +1,4 @@
+- Crear un sistema almacene toda la informacion de los alumnos de la carrera y sus materias.
+- Luego mostrar la informacion en pantalla.
+
+- Datos: (nombre completo, cedula, materias, promedio por materia)

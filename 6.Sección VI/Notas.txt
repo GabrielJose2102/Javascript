@@ -1,0 +1,5 @@
+En una cerrajeria se desea mostrar las llaves de las que disponen a un cliente para que este escoja la llave de su cerradura, en la cerajeria disponen de 20 modelos de llaves y se necesita mostrar le todas.
+
+- Crear una vista para mostrar las 20 llaves cada una con su imagen correspondiente, nombre y un id.
+- Una vez que se seleccione la llave correcta enviar los datos al servidor de esa llave.
+

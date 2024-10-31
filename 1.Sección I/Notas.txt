@@ -1,0 +1,13 @@
+3 personas entran a un restaurante, al momento de ordenar se dan cuenta que en la carta no estan señalados los precios de los platos, y ellos quieren comer el plato mas caro que puedan comprar con el dinero que tienen.
+
+- Cada uno tiene una cantidad de dinero diferente.
+- Preguntar nombre y cantidad de dinero que posee.
+- Necesitan una carta con los precios de los platos ordenados de menor a mayor.
+- Comparar a cual de ellos pueden acceder con el dinero que trae cada uno.
+- Mostrar solo los platos mas caros a los que puedan acceder cada uno si hay mas de uno mostrar los 2.
+- Mostrar si comprar cuanto vuelto le quedaria.
+
+
+- Uno de ellos el vuelto lo usara para comprar loteria.
+- El precio del boleto es de 1.5$ y le gustaria comprar los que pueda.
+

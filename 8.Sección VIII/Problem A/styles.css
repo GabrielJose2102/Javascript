@@ -1,0 +1,45 @@
+body {
+    background-color:rgba(51, 46, 46, 0.9);
+}
+
+.form-content {
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+    height: 400px;
+    margin: auto;
+    margin-top: 200px;
+    background-color: rgb(21, 9, 73);
+}
+
+.title {
+    color: #bbb;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: 60%;
+    margin: auto;
+    margin-top: 1%;
+    padding: 30px;
+    background-color: rgba(51, 46, 46, 0.7);
+    border: 1px solid #000;
+}
+
+.form-input {
+    width: 70%;
+    height: 30px;
+    margin: auto;
+    justify-content: center;
+}
+
+.form-button {
+    width: 70%;
+    height: 40px;
+    margin: auto;
+    justify-content: center;
+}

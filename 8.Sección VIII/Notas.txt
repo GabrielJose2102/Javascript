@@ -1,0 +1,4 @@
+Realizar un formulario donde el alumno se registre con, (Nombre, Apellido y Materias que reparara).
+
+*Debe validar los campos de Nombre y Correo.
+*Enviar contenido del formulario.
